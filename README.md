@@ -16,10 +16,10 @@ This app will extract text from two websites \(The popular page of The Atlantic 
   * Add the image source onto the index.html file in order to embed it onto your website. The image file should be in the same directory as the index.html file.
 * You can use `crontab -e` to run the program at whatever frequency you desire. 
 ## Dependencies
--git
--html2text.py python package
--wget
--wordcloud\_cli python package
--cron, crontab
+- git
+- html2text.py python package
+- wget
+- wordcloud\_cli python package
+- cron, crontab
 ## Contact
 For further information, you may contact aomidsal@usc.edu
